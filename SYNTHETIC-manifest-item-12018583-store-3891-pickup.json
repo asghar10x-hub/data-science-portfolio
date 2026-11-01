@@ -1,0 +1,14 @@
+{
+  "source": "SYNTHETIC — NOT Walmart evidence",
+  "sanitised_file": "SYNTHETIC-sanitised-item-12018583-store-3891-pickup.json",
+  "sha256_sanitised_file": "f9bfb26705c8b5750047bb9b7652a26826e8cdb0d451f9cf924fe1a838451991",
+  "capture_timestamp_utc": "2026-11-01T12:11:57.096300Z",
+  "capture_timestamp_america_chicago": "2026-11-01T06:11:57.096300-06:00",
+  "item_id": "12018583",
+  "store_id": "3891",
+  "store_location_example": "Waukegan",
+  "product_title": "Meyenberg goat milk",
+  "fulfillment": "Pickup",
+  "row_reference": "walmart:item:12018583:store:3891:pickup",
+  "note": "SYNTHETIC — NOT Walmart evidence. Invented example fields only; no real capture was made."
+}
